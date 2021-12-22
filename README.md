@@ -4,7 +4,7 @@
 - 👀 I’m interested in female beings
 <details> 
 <summary>More</summary>
-<img src="https://cdn.discordapp.com/attachments/916782992221929552/923329145205825677/unknown.png"></img>
+<img src="https://media.discordapp.net/attachments/902293657510617121/923343491742978089/2069e5f33mu41.jpg?width=901&height=676"></img>
 </details>
 <!---
 shampansky0/shampansky0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
