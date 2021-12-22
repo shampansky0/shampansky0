@@ -1,17 +1,18 @@
-# Hi there 👋
-## About Me
-- 🔭 I'm hosting my websites and keeping them updated
-- 👀 I’m interested in female beings
-<details> 
-<summary>More</summary>
-<img src="https://media.discordapp.net/attachments/902293657510617121/923343491742978089/2069e5f33mu41.jpg?width=901&height=676"></img>
-</details>
-<!---
-shampansky0/shampansky0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 👋 Hi, I’m @shampansky0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+
+<h3 align="center">👋 Hi there! I'm astagoncs</h3>
+<p align="center">
+  <a href="https://pornhub.com">Website</a> •
+  <a href="https://steamcommunity.com/id/astagoncs/">Steam</a> •
+  <a href="https://twitter.com/astagoncs">Twitter</a>
+</p>
+
+---
+✨ I'm a frontend engineer and technical writer based in Murmansk Russia. I’m passionate about making the web accessible to everyone and also an advocate for building open-source projects. 
+
+I’m also a big advocate for building open and inclusive communities which led me to start the Vue Vixens chapter in Nigeria and the JAMstack community in Lagos. I'm a co-organizer of the Concatenate Conference, a Media Developer Expert at Cloudinary, and an Auth0 Ambassador. When I'm not coding you can find me geeking about photography and exploring different ways of documenting stories using photography and cooking delicious delicacies.
+
+- 💬 Ask me about: MySQL, PHP  
+- 🌱 I’m currently learning: C++, Java 
+- 📫 How to reach me: [@astagoncs](https://twitter.com/astagoncs)
+- 🔭 I’m currently working on: 🤫
+---
