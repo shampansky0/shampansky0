@@ -1,7 +1,7 @@
 
 <h3 align="center">👋 Hi there! I'm astagoncs</h3>
 <p align="center">
-  <a href="https://shampansky0.github.com">Website</a> •
+  <a href="https://shampansky0.github.io">Website</a> •
   <a href="https://steamcommunity.com/id/astagoncs/">Steam</a> •
   <a href="https://twitter.com/astagoncs">Twitter</a>
 </p>
