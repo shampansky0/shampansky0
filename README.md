@@ -8,9 +8,9 @@
 
 ---
 
-- 💬 Ask me about: MySQL, PHP  
-- 🌱 I’m currently learning: C++, Java 
+- 💬 Ask me about: unity
+- 🌱 I’m currently learning: unity
 - 📫 How to reach me: [@astagoncs](https://twitter.com/astagoncs)
-- 🔭 I’m currently working on: 🤫
+- 🔭 I’m currently working on: gta 6
 
 ---
